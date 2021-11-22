@@ -1,5 +1,5 @@
 const donasibot = () => {
-return `DONASI BISA VIA BANK / E-MONEY
+return `DONATE FOR ORIGINAL DEVELOPAR VIA BANK / E-MONEY
 
 *🏧 BANK*
 
@@ -21,7 +21,6 @@ return `DONASI BISA VIA BANK / E-MONEY
 3. DANA
 	ㅁ 0887 4350 47326
 	
-Semuanya atas nama RI****DI
 `
 	}
 
