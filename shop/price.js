@@ -10,10 +10,10 @@ ${prefix}Sausage -> List Candy Sausage
 ${prefix}Lol -> List Wc Lol
 ${prefix}Valo -> List Vp Valorant
 
-Untuk melihat listnya ketik ${prefix}list game 
+To see the list, type ${prefix}list game 
 Ex :
 •> ${prefix}aov
-	ㅁ Untuk melihat list Voucher Aov
+	ㅁ To see a list of Aov Vouchers
 `
 	}
 
