@@ -1,18 +1,17 @@
 // jangan di ubah jika tidak punya group bot, takutnya eror
 const gcbotwa = () =>{
-	return`Join Aja Semua Fitur Bot Bisa Digunakan !
+	return`JOIN FOR FREE FILMS SERIES
 
-1. *Alphabot Support*
-_https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
-2. *Alphabot Support 2*
-_https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE_
-3. *Alphabot Support 3*
-_https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy_
-4. *Alphabot Support 4* 
-_https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU_
+1. *MPM STUDIO*
+_https://chat.whatsapp.com/FAgYedjFnQT124VrpMAAtC_
+2.
+_https://chat.whatsapp.com/HEQbfUXNg9r1h5g0SGTVch_
+3.
+_https://chat.whatsapp.com/HH2K2DpnVT57T1AjKliY8X_
+4.
+_https://chat.whatsapp.com/B62R1AUNp3B9AdKVTJePeS_
 
-Jika ada link yang ke reset, silahkan hubungi
-owner untuk meminta link yang baru
+Best FILM | SERIES | MUSIC | VPN Grups In Srilanka 🇱🇰
 `
 }
 exports.gcbotwa = gcbotwa
