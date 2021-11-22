@@ -20,16 +20,16 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 📮 *Versi Hp : ${device_model}*
 
 
-ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
+ℒ⃝👨‍💻 *C O N N E C T  W I T H  U S*
 
-⛎ Api : api.alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+🇱🇰 Hack The Rich - Feed The Poor 🇱🇰
+♈ Facebook : https://bit.ly/FB_MPM
+♉ Meme : https://bit.ly/MPM_MEME
+♊ Instagram : instagram.com/shelby_cer
+♋ Tiktok : tiktok.com/@_sheeeeeeeeeeeeeeeeshh
+♌ Telegram : t.me/Zer_0XD
+♎ Ch Telegram : t.me/WhatsappGang
+♏ WhatsApp : https://bit.ly/MPM_LINKS
 `}
 
 exports.infobot = infobot
