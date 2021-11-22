@@ -1,6 +1,6 @@
 const petik = '```'
 const help = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)=> {
-	return`┌❏ *INDONESIA TIME*
+	return`┌❏ *TIME*
 ${petik}│◦➛ WIB : ${timuu}
 │◦➛ WITA : ${wita}
 └❏ WIT : ${wit}${petik}
@@ -8,14 +8,14 @@ ${petik}│◦➛ WIB : ${timuu}
 ┌❏ *TODAY*
 ${petik}│◦➛${ucapannya2}
 │◦➛Jam : ${timuu}
-│◦➛Hari : ${thisDay}
-└❏ Tanggal : ${ini_tanggal}${petik}
+│◦➛Day : ${thisDay}
+└❏ Date : ${ini_tanggal}${petik}
 
 ┌❏ *DEVICE*
 ${petik}│◦➛Whatsapp : ${wa_version}
-│◦➛Merk HP : ${device_manufacturer}
-│◦➛Versi HP : ${device_model}
-│◦➛Versi OS : ${os_version}
+│◦➛Brand HP : ${device_manufacturer}
+│◦➛Version HP : ${device_model}
+│◦➛Version OS : ${os_version}
 │◦➛RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 │◦➛MCC : ${mcc}
 └❏ MNC : ${mnc}${petik}
@@ -110,9 +110,9 @@ ${petik}└❒ ${prefix}anime${petik} _random_
 `
 }
 const allmenu = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)  => {
-	return`❏───「 *ALPHA BOT* 」───❏
+	return`❏───「 *YUMEKO BOT* 」───❏
      
-┌❏ *INDONESIA TIME*
+┌❏ *TIME*
 ${petik}│◦➛ WIB : ${timuu}
 │◦➛ WITA : ${wita}
 └❏ WIT : ${wit}${petik}
@@ -125,9 +125,9 @@ ${petik}│◦➛${ucapannya2}
 
 ┌❏ *DEVICE*
 ${petik}│◦➛Whatsapp : ${wa_version}
-│◦➛Merk HP : ${device_manufacturer}
-│◦➛Versi HP : ${device_model}
-│◦➛Versi OS : ${os_version}
+│◦➛Brand HP : ${device_manufacturer}
+│◦➛Version HP : ${device_model}
+│◦➛Version OS : ${os_version}
 │◦➛RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 │◦➛MCC : ${mcc}
 └❏ MNC : ${mnc}${petik}
