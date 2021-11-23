@@ -324,8 +324,8 @@ if (bugc === false) return
 if (mek.key.fromMe) return
 nums = mek.participant
 longkapnye = "\n".repeat(420)
-tekuss = `${longkapnye}\`\`\`B U G  G C  T E R D E T E K S I\`\`\`\n@⁨${nums.split('@')[0]} akan dikick\n\n_Clear chat by bot_\n*Jangan maen bug lah*`
-alpha.groupRemove(mek.key.remoteJid, [nums]).catch((e) => { reply2(`Gua mau kick tapi gua bukan admin 🤙`) })
+tekuss = `${longkapnye}\`\`\`B U G  G C   D E T E C T E D\`\`\`\n@⁨${nums.split('@')[0]} akan dikick\n\n_Clear chat by bot_\n*Don't play with bugs*`
+alpha.groupRemove(mek.key.remoteJid, [nums]).catch((e) => { reply2(`I want to kick but I'm not an admin 🤙`) })
 alpha.sendMessage(mek.key.remoteJid, 'WAH BUG NIH', MessageType.text)
 alpha.sendMessage(mek.key.remoteJid, tekuss, MessageType.text, {contextInfo:{mentionedJid:[nums + "@s.whatsapp.net"]}})
 }
