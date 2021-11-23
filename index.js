@@ -1274,9 +1274,9 @@ const bayarLimit = (sender, amount) => {
 }
 function _0x5119(_0x5301ed,_0x4bdeff){const _0x4d484a=_0x4d48();return _0x5119=function(_0x5119ed,_0x514696){_0x5119ed=_0x5119ed-0x125;let _0x41233c=_0x4d484a[_0x5119ed];return _0x41233c;},_0x5119(_0x5301ed,_0x4bdeff);}function _0x4d48(){const _0x1136ef=['setStatus','4495827nZGfsy','padStart','floor','168TLrYoW','2504iOUJqx','4149wwROTc','I\x27m\x20Userbot\x20🤖\x20|\x20Runtime\x20','188nwguEu','1013965jKmium','\x20⏰\x20|\x20','4692908hxoDzf','map','2862520HmlZjX','uptime','9732cHnqXp','12oPpLUp','5517JzEqTI','toString'];_0x4d48=function(){return _0x1136ef;};return _0x4d48();}const _0x6d8bb3=_0x5119;(function(_0x4099c9,_0x45c9a3){const _0x65668d=_0x5119,_0x54f7ea=_0x4099c9();while(!![]){try{const _0x3b845d=-parseInt(_0x65668d(0x12d))/0x1*(parseInt(_0x65668d(0x12b))/0x2)+-parseInt(_0x65668d(0x136))/0x3*(-parseInt(_0x65668d(0x12f))/0x4)+parseInt(_0x65668d(0x130))/0x5*(-parseInt(_0x65668d(0x137))/0x6)+parseInt(_0x65668d(0x128))/0x7+-parseInt(_0x65668d(0x12c))/0x8*(-parseInt(_0x65668d(0x125))/0x9)+-parseInt(_0x65668d(0x134))/0xa+parseInt(_0x65668d(0x132))/0xb;if(_0x3b845d===_0x45c9a3)break;else _0x54f7ea['push'](_0x54f7ea['shift']());}catch(_0x43b3a5){_0x54f7ea['push'](_0x54f7ea['shift']());}}}(_0x4d48,0x5b088));function clockString(_0x34132c){const _0x2407a4=_0x5119;let _0x1d952b=isNaN(_0x34132c)?'--':Math['floor'](_0x34132c/0x36ee80),_0x1671d4=isNaN(_0x34132c)?'--':Math[_0x2407a4(0x12a)](_0x34132c/0xea60)%0x3c,_0x12ec2e=isNaN(_0x34132c)?'--':Math[_0x2407a4(0x12a)](_0x34132c/0x3e8)%0x3c;return[_0x1d952b,_0x1671d4,_0x12ec2e][_0x2407a4(0x133)](_0x5913d3=>_0x5913d3[_0x2407a4(0x126)]()[_0x2407a4(0x129)](0x2,0x0))['join'](':');}if(autobio){if(autobio===![])return;let settingstatus=0x0;if(new Date()*0x1-settingstatus>0x3e8){let _uptime=process[_0x6d8bb3(0x135)]()*0x3e8,uptimer=clockString(_uptime);await alpha[_0x6d8bb3(0x127)](_0x6d8bb3(0x12e)+uptimer+_0x6d8bb3(0x131)+status)['catch'](_0x731e31=>_0x731e31),settingstatus=new Date()*0x1;}}
 		mess = {
-			wait: '```[ ! ] Proses kak...```',
+			wait: '```Please Wait...```',
 			success: '```[ ✓ ]``` Success',
-			wrongFormat: 'Format salah, coba liat lagi di menu',
+			wrongFormat: 'Wrong format, try again in the menu',
 			error: {
 				stick: 'Itu bukan stiker',
 				Iv: 'Linknya error:v'
@@ -2216,7 +2216,7 @@ const media = await alpha.prepareMessage(from, content, MessageType.image, { thu
 let bacotlu = media.message["ephemeralMessage"] ? media.message.ephemeralMessage : media
 let p1 = await alpha.getStatus(sender)
 anunya = process.uptime()
-ini_anu =`𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝙪𝙨𝙚𝙧𝙗𝙤𝙩 👋
+ini_anu =`𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 𝙔𝙪𝙢𝙚𝙠𝙤 👋
 
 			『 *BOT INFO*  』
 
@@ -3006,8 +3006,8 @@ case 'bcgif':
 					}, 'contactsArrayMessage', { quoted: fkontak})
 					var ini_gopayy =`Halo @${sender.split("@")[0]} itu owner ku, jangan lupa donasi kak😇`
 var buttonss = [
-{buttonId: 'donasi', buttonText:{displayText: 'Donasi'}, type: 1},
-{buttonId: 'sewabot', buttonText:{displayText: 'Sewa'}, type: 1}
+{buttonId: 'donasi', buttonText:{displayText: 'GROUPS'}, type: 1},
+{buttonId: 'sewabot', buttonText:{displayText: 'INFO'}, type: 1}
 ]
 
 buttonMessagee = {
@@ -4576,7 +4576,7 @@ var m = q
 var m1 = m.split("|")[0];
 var m2 = m.split("|")[1]; 
 let photooxy = await getBuffer(`${alphaapi}/photooxy/${command}?apikey=${alphakey}&text=${m1}&text2=${m2}`)
-sendButImage(from,  `Nih udah jadi kak, jgn lupa donasi untuk beli dyno 🐦 ` , `${botname}™© | By ${ownername}`,photooxy, [{"buttonId": `owner`,"buttonText": {"displayText": "👨‍💻 Owner"},"type": "RESPONSE"},{"buttonId": `donasi`,"buttonText": {"displayText": "💰 Donate"},"type": "RESPONSE"}], {thumbnail: Buffer.alloc(0), quoted: mek})
+sendButImage(from,  `It's done bro, don't forget to Support to buy dyno 🐦 ` , `${botname}™© | By ${ownername}`,photooxy, [{"buttonId": `owner`,"buttonText": {"displayText": "👨‍💻 BOT"},"type": "RESPONSE"},{"buttonId": `donasi`,"buttonText": {"displayText": "SUPPORT"},"type": "RESPONSE"}], {thumbnail: Buffer.alloc(0), quoted: mek})
 break                
           
 // 1 text
