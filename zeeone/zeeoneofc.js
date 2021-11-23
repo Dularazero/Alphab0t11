@@ -1,17 +1,17 @@
 const petik = '```'
 const help = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)=> {
-	return`┌❏ *TIME*
+	return`┌❏ *TIME 🕑*
 ${petik}│◦➛ WIB : ${timuu}
 │◦➛ WITA : ${wita}
 └❏ WIT : ${wit}${petik}
                           
-┌❏ *TODAY*
+┌❏ *TODAY 🌈*
 ${petik}│◦➛${ucapannya2}
 │◦➛Jam : ${timuu}
 │◦➛Day : ${thisDay}
 └❏ Date : ${ini_tanggal}${petik}
 
-┌❏ *DEVICE*
+┌❏ *DEVICE 🖥*
 ${petik}│◦➛Whatsapp : ${wa_version}
 │◦➛Brand HP : ${device_manufacturer}
 │◦➛Version HP : ${device_model}
@@ -20,7 +20,7 @@ ${petik}│◦➛Whatsapp : ${wa_version}
 │◦➛MCC : ${mcc}
 └❏ MNC : ${mnc}${petik}
 
-┌─❑「 *BOT INFO* 」
+┌─❑「 *BOT INFO 🍃 * 」
 ${petik}│◦➛ Owner : ${ownername}
 │◦➛Mode : ${status}
 │◦➛Prefix : ${prefix}
@@ -889,9 +889,9 @@ ${petik}│◦ ${prefix}rikagusriani
 │◦ ${petik}${prefix}akame${petik}
 │◦ ${petik}${prefix}mikosiba${petik}
 │
-└─❑「 MENU BOT 」
+└─❑「 BOT MENU 」
 
-❏───「 *ALPHA BOT* 」───❏
+❏───「 *YUMEKO BOT 🦄✨* 」───❏
 `
 }
 
