@@ -1,25 +1,28 @@
 const donasibot = () => {
-return `DONATE FOR ORIGINAL DEVELOPAR VIA BANK / E-MONEY
+return `*POWERED BY MPM STUDIO 🇱🇰*
+*EHI GROUPS*
 
-*🏧 BANK*
+01. https://chat.whatsapp.com/JvLdcIKhElV410Jm7oDTXZ
 
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
+02. https://chat.whatsapp.com/FwfN5oKqD516Vdny7Ig9Wo
+
+03. https://chat.whatsapp.com/GdnYJ9U8w9A8Xt3LQUT2zD
+
+04. https://chat.whatsapp.com/DTo7FqBWxzYA1xGsHAuQxQ
+
+05. https://chat.whatsapp.com/K5jvgB36oTy3Fj4xXYNqGX
 	
-*💰 E-MONEY*
+*FILM GROUPS*
 
-1. GOPAY
-	ㅁ 0887 4350 47326
-2. OVO
-	ㅁ 0887 4350 47326
-3. DANA
-	ㅁ 0887 4350 47326
+01. https://chat.whatsapp.com/FAgYedjFnQT124VrpMAAtC
+
+02. https://chat.whatsapp.com/FAgYedjFnQT124VrpMAAtC
+
+03. https://chat.whatsapp.com/HEQbfUXNg9r1h5g0SGTVch
+
+04. https://chat.whatsapp.com/GgWaf4OJ2QL9TQXLjNOq6V
+
+05. https://chat.whatsapp.com/HH2K2DpnVT57T1AjKliY8X
 	
 `
 	}
