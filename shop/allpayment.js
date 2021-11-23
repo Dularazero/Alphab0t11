@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `HACK THE RICH FEED THE POO �🥰
+return `*HACK THE RICH FEED THE POOR* 😈🇱🇰
 `
 	}
 
